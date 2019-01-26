@@ -1,4 +1,4 @@
 package pl.wastesegregation.listeners;
 
-public class Test {
+public class Test2 {
 }
